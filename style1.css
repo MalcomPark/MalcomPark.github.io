@@ -1,0 +1,73 @@
+/* styles.css */
+
+h1 {
+  font-size: 25px;
+  width: 80%;
+  min-width: 320px;
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 20px 0 45px;
+  text-align: center;
+  border-radius: 16px;
+}
+
+h2 {
+  font-size: 20px;
+  width: 80%;
+  min-width: 320px;
+  max-width: 600px;
+  margin: 0px auto;
+  padding: 20px 0 45px;
+  text-align: center;
+  border-radius: 16px;
+}
+body {
+  font-family: Arial, sans-serif;
+  display: contents;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  width: 60%;
+  min-width: 300px;
+  max-width: 400px;
+  margin: 10px auto;
+  padding: 20px 0 45px;
+  text-align: center;
+  border: 3px solid rgb(181, 178, 178);
+  border-radius: 16px;
+}
+
+.korean-character {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.english-pronunciation {
+  font-size: 60px;
+  color: #555;
+}
+
+#prev {
+  margin-top: 10px;
+  font-size: 20px;
+  background-color: lightcoral;
+  color: white;
+}
+
+#reset {
+  margin-top: 10px;
+  font-size: 20px;
+  background-color: lightgreen;
+  color: darkgreen;
+}
+
+#next {
+  margin-top: 10px;
+  font-size: 20px;
+  background-color: lightskyblue;
+  color: white;
+}
