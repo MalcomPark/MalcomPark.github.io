@@ -1,7 +1,10 @@
 /* styles.css */
-
+* {
+  background-color: rgb(109, 113, 96);
+}
 h1 {
   font-size: 25px;
+  color: rgb(166, 192, 203);
   width: 80%;
   min-width: 320px;
   max-width: 600px;
@@ -13,6 +16,7 @@ h1 {
 
 h2 {
   font-size: 20px;
+  color: rgb(166, 192, 203);
   width: 80%;
   min-width: 320px;
   max-width: 600px;
@@ -44,11 +48,12 @@ body {
 .korean-character {
   font-size: 60px;
   font-weight: bold;
+  color: white;
 }
 
 .english-pronunciation {
   font-size: 60px;
-  color: #555;
+  color: #b6e134;
 }
 
 #prev {
