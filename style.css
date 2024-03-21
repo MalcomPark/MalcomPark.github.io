@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  background-color: rgb(51, 67, 71);
+}
+.container {
+  width: 80%;
+  min-width: 320px;
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 20px 0 45px;
+  text-align: center;
+  border: 3px solid rgb(18, 160, 54);
+  border-radius: 16px;
+}
+h2 {
+  color: rgba(251, 247, 247, 0.807);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 28px;
+}
+h1 {
+  color: rgba(5, 197, 215, 0.899);
+  font-family: sans-serif;
+  font-size: 45px;
+}
+h1 > span {
+  display: inline-block;
+  width: 80px;
+}
+button {
+  color: rgb(232, 228, 221);
+  background-color: rgb(33, 139, 114);
+  font-size: 16px;
+  padding: 6px;
+  width: 80px;
+  border: none;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:active {
+  color: lightcoral;
+  background-color: rgb(40, 38, 38);
+}
