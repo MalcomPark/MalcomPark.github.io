@@ -57,7 +57,8 @@ body {
   background-color: lightcoral;
   color: white;
   padding: 6px;
-  width: 80px;
+  width: 100px;
+  height: 60px;
   border: none;
   margin-left: 5px;
   margin-right: 5px;
@@ -71,7 +72,8 @@ body {
   background-color: lightgreen;
   color: darkgreen;
   padding: 6px;
-  width: 80px;
+  width: 100px;
+  height: 60px;
   border: none;
   margin-left: 5px;
   margin-right: 5px;
@@ -85,7 +87,8 @@ body {
   background-color: lightskyblue;
   color: white;
   padding: 6px;
-  width: 80px;
+  width: 100px;
+  height: 60px;
   border: none;
   margin-left: 5px;
   margin-right: 5px;
